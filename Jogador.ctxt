@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Jogador
+comment1.params=nome
+comment1.target=Jogador(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getQtdPontos()
+comment4.params=
+comment4.target=Dado\ getDadoBranco()
+comment5.params=
+comment5.target=Dado\ getDadoVermelho()
+comment6.params=nome
+comment6.target=void\ setNome(java.lang.String)
+comment7.params=qtdPontos
+comment7.target=void\ setQtdPontos(int)
+comment8.params=dadoBranco
+comment8.target=void\ setDadoBranco(Dado)
+comment9.params=dadoVermelho
+comment9.target=void\ setDadoVermelho(Dado)
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=
+comment1.target=void\ comecaJogo()
+comment2.params=
+comment2.target=Jogador\ jogador1()
+comment3.params=
+comment3.target=Jogador\ jogador2()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
